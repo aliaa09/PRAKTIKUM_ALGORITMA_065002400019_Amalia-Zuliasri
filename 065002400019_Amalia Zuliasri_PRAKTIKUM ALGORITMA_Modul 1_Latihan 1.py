@@ -1,0 +1,6 @@
+nama = input ("Nama kamu siapa?")
+asal = input ("Dari mana asal kamu Amalia?")
+sekolah = input ("Sebelumnya bersekolah dimana?")
+print ("halo selamat siang",nama)
+print ("wah dari",asal)
+print ("Pasti menyenangkan di",sekolah)
